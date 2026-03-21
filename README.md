@@ -1,4 +1,4 @@
-# 🔢 NumPy Exercises
+# 🔢 NumPy Exercises :
 
 A collection of beginner-friendly Jupyter Notebooks covering core NumPy concepts with hands-on code examples. Great for anyone learning data manipulation with Python.
 
